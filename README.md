@@ -27,4 +27,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/OsintIp.git
 cd OsintIp
+pip install -r requirements.txt
 python OsintIp.py
